@@ -1,0 +1,7 @@
+
+expo init projectName
+cd projectName
+npm start
+
+
+=> open browser with that port and run with android emulator
